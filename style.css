@@ -1,0 +1,67 @@
+body {
+    font-family: 'Anton', sans-serif;
+}
+
+#weeklySpecials {
+    font-family: 'Satisfy', cursive;
+    font-weight: bold;
+}
+
+footer {
+    text-align: center;
+    border-top: 20px double #283576;
+}
+h2, p, a {
+    color: #283576;
+}
+
+.bluetext {
+    color: #283576;
+}
+
+.lead {
+font-weight: bold;
+}
+
+.jumbotron {
+    text-align: center;
+}
+
+.navbar {
+border-bottom: 20px double #283576;
+}
+
+.col-sm-4 {
+    border-right: 20px double #283576;
+}
+
+.carousel-item {
+    padding: 5px;
+}
+
+.redtext {
+    color: #BD2126;
+}
+
+#navbarNav {
+    align-content: center;
+}
+
+#specialRow {
+    text-align: center;
+}
+
+.card-header {
+    background-color: #BD2126;
+    text-align: center;
+    color: white;
+}
+
+.card-body {
+    text-align: center;
+}
+
+.fa {
+    padding-left: 10px;
+    padding-right: 10px;
+}
