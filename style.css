@@ -7,6 +7,9 @@ body {
     font-weight: bold;
 }
 
+#happyHourJumbo {
+    padding: 5px;
+}
 footer {
     text-align: center;
     border-top: 20px double #283576;
@@ -31,12 +34,12 @@ font-weight: bold;
 border-bottom: 20px double #283576;
 }
 
-.col-sm-4 {
-    border-right: 20px double #283576;
+#menuRow {
+    border-bottom: 20px double #283576;
 }
 
-.carousel-item {
-    padding: 5px;
+.col-sm-4 {
+    border-right: 20px double #283576;
 }
 
 .redtext {
