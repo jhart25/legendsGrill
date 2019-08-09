@@ -2,14 +2,31 @@ body {
     font-family: 'Anton', sans-serif;
 }
 
+#freshDisc {
+    font-family: 'Exo', sans-serif;
+}
+
 #weeklySpecials {
     font-family: 'Satisfy', cursive;
     font-weight: bold;
 }
 
-#happyHourJumbo {
-    padding: 5px;
+.menuItems {
+    padding: 40px;
 }
+
+.otherMenuItem {
+    padding-top: 20px;
+}
+
+.menuColumn {
+    border-right: 6px solid #283576;
+}
+
+#menuJumbo {
+    padding: 0px;
+}
+
 footer {
     text-align: center;
     border-top: 20px double #283576;
@@ -31,10 +48,15 @@ font-weight: bold;
 }
 
 .navbar {
-border-bottom: 20px double #283576;
+    border-bottom: 20px double #283576;
 }
 
 #menuRow {
+    border-bottom: 20px double #283576;
+}
+
+#multiMenuRow {
+    border-top: 10px solid #283576;
     border-bottom: 20px double #283576;
 }
 
